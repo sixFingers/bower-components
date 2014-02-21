@@ -1,0 +1,18 @@
+{
+  "name": "data",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sixFingers/bower-components",
+  "authors": [
+    "Ignazio Setti <ignazio.setti@gmail.com>"
+  ],
+  "main": "data.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "list",
+  "main": "list.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sixFingers/bower-components",
+  "authors": [
+    "Ignazio Setti <ignazio.setti@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
